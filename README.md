@@ -1,3 +1,3 @@
 # BD23
 
-Autor: Radosław Pławecki.
+Autor: Radosław Pławecki
