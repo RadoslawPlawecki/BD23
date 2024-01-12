@@ -7,7 +7,7 @@ import jakarta.persistence.Query;
 
 import java.util.List;
 
-public class Main {
+public class MainView {
     public static void main(String[] args) {
         try (EntityManagerFactory emf = Persistence.createEntityManagerFactory("default")) {
             EntityManager em = emf.createEntityManager();
